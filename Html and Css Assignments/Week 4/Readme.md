@@ -11,5 +11,5 @@
 ## Project 3
 ### Output
 
-![Project 3]()
+![Project 3](./Project%203/Output.png)
 

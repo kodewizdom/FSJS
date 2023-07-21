@@ -21,4 +21,10 @@
 |---|---|
 |Calm|[Link](./Html%20and%20Css%20Assignments/Week%204/)|
 |Medlife|[Link](./Html%20and%20Css%20Assignments/Week%204/)|
-|Justice|[Link]()|
+|Justice|[Link](./Html%20and%20Css%20Assignments/Week%204/)|
+
+## 3. Visual Studio Code Clone
+
+**[Code]()**
+
+**[website]()**
