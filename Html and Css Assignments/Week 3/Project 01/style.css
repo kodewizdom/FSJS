@@ -1,0 +1,105 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+* {
+    box-sizing: border-box;
+    margin: 0 ;
+    overflow: hidden
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    width: 1440px;
+    margin: auto;
+
+
+}
+
+/* navbar */ 
+
+
+
+.navbar-container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 50px;
+    margin-left: 4%;
+    padding: 0 50px;
+}
+.grow-list{
+    margin-right: 37%;
+}
+
+.list{
+display: flex;
+
+}
+
+.list-item{
+    margin-left: 20px;
+}
+
+
+
+
+.nav-button {
+    background-color: #5955B3;
+    border: none;
+    color: antiquewhite;
+    font-weight: 500;
+    border-radius: 8px;
+    height: 35px;
+    width: 110px;
+    cursor: pointer;    
+}
+
+
+/* hero section */
+
+.banner-container{
+    display: flex;
+    margin-top: 30px;    
+}
+.banner-container div{
+    width: 50%;
+}
+.banner-container:first-child{
+    margin-left: 4%;
+    padding: 0 50px;
+    align-items: center;
+    position: relative;
+}
+
+.heading-text{
+    font-size: 50px;
+    padding-right: 180px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+span {
+    color: #5955B3;
+}
+.description{
+    padding-right: 180px;
+    font-size: 20px;
+    color: #828282;   
+}
+
+.btn {
+    margin-top: 50px;
+    height: 45px;
+    width: 170px;
+}
+
+
+
+img{
+    width: 96%;
+
+}
+.image{
+    overflow: hidden;
+}

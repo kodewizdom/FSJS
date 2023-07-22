@@ -10,7 +10,7 @@
 
 |Title|Link|
 |---|---|
-|Seo Master|[Link]()|
+|Seo Master|[Link](./Html%20and%20Css%20Assignments/Week%203/)|
 |Crypto Market|[Link]()|
 |Fashion Hub|[Link]()|
 
