@@ -1,0 +1,68 @@
+/* You can not modify anything from the HTML file */
+/* You can only modify the CSS file */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+
+body{
+    width: 1440px;
+    margin: 2% auto;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+.navbar-container{
+    display: flex;
+    margin: 0 5%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list{
+display: flex;
+gap: 20px;
+
+}
+
+.list-item{
+    
+}
+
+.list-item:hover{
+    font-weight: 600;
+    border-bottom: 2px solid black;
+}
+
+.button-group{
+    display: flex;
+    margin-right: 5%;
+    align-items: center;
+    gap: 10px;
+}
+.search-icon{
+  width:17px;
+}
+
+.nav-button{
+    background-color: #fff;
+    border: 1px solid black;
+    padding: 5px 25px;
+    border-radius: 8px;
+    color: gray;
+
+
+}
+
+
+.hero-container{
+}
+
+.hero-container div {
+    
+}
+
