@@ -9,3 +9,4 @@
 |Position in CSS|[Link](https://kodewisdom.hashnode.dev/position-in-css)|
 |Flexbox in CSS|[Link](https://kodewisdom.hashnode.dev/flexbox-in-css)|
 |CSS Grid Layout|[]()|
+|JavaScript Introduction|[Link](https://kodewisdom.hashnode.dev/javascript-introduction)|
