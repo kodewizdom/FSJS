@@ -10,3 +10,4 @@
 |Flexbox in CSS|[Link](https://kodewisdom.hashnode.dev/flexbox-in-css)|
 |CSS Grid Layout|[]()|
 |JavaScript Introduction|[Link](https://kodewisdom.hashnode.dev/javascript-introduction)|
+|Arrays in JavaScript|[Link](https://kodewisdom.hashnode.dev/arrays-in-javascript)|
