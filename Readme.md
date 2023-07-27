@@ -25,6 +25,6 @@
 
 ## 3. Visual Studio Code Clone
 
-**[Code]()**
+**[Code](./Html%20and%20Css%20Assignments/VSCodeClone/)**
 
-**[website]()**
+**[under construction]()**
